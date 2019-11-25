@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/Withi/workshop-ci.git",
   "author": "William Dutra <williamdutra21@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
